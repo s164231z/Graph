@@ -1,5 +1,9 @@
 public class ExperimentHQ {
 
+	/*
+	 * 計算機実験(シミュレーション)
+	 */
+
 	public static void main(String[] args) {
 		int trials = 10000;
 		double dfs_suc = 0.0, bfs_suc = 0.0, rc_suc = 0.0, drc_suc = 0.0;
